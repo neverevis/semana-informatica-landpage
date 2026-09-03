@@ -11,7 +11,7 @@ Atualizado em 03/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 
 | Dia | Período | Palestra | Palestrante | Status |
 |---|---|---|---|---|
-| 26/10 (Seg) | Manhã (8h20, proposto) | Game Design | Jefferson Santana | Em negociação (aguardando resposta) |
+| 26/10 (Seg) | Manhã (8h20) | Game Design | Jefferson Santana | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 27/10 (Ter) | Tarde | Desenvolvimento de Jogos | Scorpion Bits | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
