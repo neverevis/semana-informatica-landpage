@@ -58,3 +58,5 @@ Principais decisões:
 - Palestra da Scorpion Bits atualizada: tema definido como "Mercado de Trabalho em
   Jogos" e movida de 27/10 à tarde para **26/10 à tarde**. Mini-curso da Scorpion Bits
   confirmado como 27/10 (terça) com continuação em 28/10 (quarta).
+- Minicurso da Ana Laura Maekawa renomeado para "Arte Digital para Jogos", incluindo
+  pixel art no conteúdo.

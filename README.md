@@ -22,7 +22,7 @@ Atualizado em 03/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | Mini-curso | Responsável | Status |
 |---|---|---|
 | Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (27/10 e continuação em 28/10) |
-| Arte digital | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
+| Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
 | Git e GitHub | Zenon + colega da comissão | Em negociação |
 | Uso prático de IA com Ollama | Milan | Em negociação |
 | Minicurso com Vinícius (tema a definir) | Vinícius | Em negociação |
