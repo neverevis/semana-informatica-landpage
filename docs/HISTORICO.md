@@ -53,3 +53,8 @@ Principais decisões:
 - Adicionado o minicurso de arte digital com Ana Laura Maekawa, pela Scorpion Studios
   (grupo de estudos do próprio IFSP — entidade diferente da Scorpion Bits, o estúdio
   comercial que já tem palestra confirmada).
+- PR #1 mesclado na branch `main`, GitHub Pages ativado e site publicado em
+  https://neverevis.github.io/semana-informatica-landpage/.
+- Palestra da Scorpion Bits atualizada: tema definido como "Mercado de Trabalho em
+  Jogos" e movida de 27/10 à tarde para **26/10 à tarde**. Mini-curso da Scorpion Bits
+  confirmado como 27/10 (terça) com continuação em 28/10 (quarta).

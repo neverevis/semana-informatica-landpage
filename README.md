@@ -12,8 +12,8 @@ Atualizado em 03/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | Dia | Período | Palestra | Palestrante | Status |
 |---|---|---|---|---|
 | 26/10 (Seg) | Manhã (8h20) | Game Design | Jefferson Santana | Confirmado |
+| 26/10 (Seg) | Tarde | Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
-| 27/10 (Ter) | Tarde | Desenvolvimento de Jogos | Scorpion Bits | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 28/10 (Qua) | Manhã / Tarde / Noite | — | — | Em aberto |
 
@@ -21,7 +21,7 @@ Atualizado em 03/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 
 | Mini-curso | Responsável | Status |
 |---|---|---|
-| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (dias 27 e 28) |
+| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (27/10 e continuação em 28/10) |
 | Arte digital | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
 | Git e GitHub | Zenon + colega da comissão | Em negociação |
 | Uso prático de IA com Ollama | Milan | Em negociação |
