@@ -543,6 +543,23 @@ a {
   color: var(--ink-700);
 }
 
+.speaker-social {
+  margin: 14px 0 0;
+  display: flex;
+  gap: 14px;
+}
+
+.speaker-social a {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--green-700);
+  text-decoration: none;
+}
+
+.speaker-social a:hover {
+  text-decoration: underline;
+}
+
 .speaker-card-placeholder {
   border-style: dashed;
   box-shadow: none;
