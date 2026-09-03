@@ -34,7 +34,9 @@
     <nav class="nav" id="navMenu">
       <a href="#sobre">Sobre</a>
       <a href="#programacao">Programação</a>
+      <a href="#minicursos">Mini-cursos</a>
       <a href="#palestrantes">Palestrantes</a>
+      <a href="#inscricoes">Inscrições</a>
       <a href="#parceiro">Seja parceiro</a>
       <a href="#contato">Contato</a>
     </nav>
@@ -91,6 +93,21 @@
         veja como <a href="#parceiro">propor uma palestra ou mini-curso</a>.
       </p>
 
+      <div class="schedule-model">
+        <div class="schedule-model-item">
+          <span class="schedule-model-period">Manhã</span>
+          <span class="schedule-model-time">8h30 – 9h10 e 9h10 – 9h50</span>
+        </div>
+        <div class="schedule-model-item">
+          <span class="schedule-model-period">Tarde</span>
+          <span class="schedule-model-time">14h – 15h30 (palestra) · 15h30 – 17h40 (mini-curso)</span>
+        </div>
+        <div class="schedule-model-item">
+          <span class="schedule-model-period">Noite</span>
+          <span class="schedule-model-time">19h10 – 19h50 · coffee break · 21h – 22h30</span>
+        </div>
+      </div>
+
       <div class="tabs" role="tablist" aria-label="Dias do evento">
         <button class="tab is-active" role="tab" aria-selected="true" aria-controls="dia-26" id="tab-26" data-day="26">
           26/10 <span>Segunda</span>
@@ -105,7 +122,7 @@
 
       <div class="day-panel is-active" id="dia-26" role="tabpanel" aria-labelledby="tab-26">
         <div class="slot">
-          <div class="slot-period">Manhã</div>
+          <div class="slot-period">Manhã<span>8h20</span></div>
           <div class="slot-content">
             <span class="badge badge-confirmed">Confirmado</span>
             <h3>Palestra: Game Design</h3>
@@ -137,16 +154,15 @@
             <p class="slot-speaker">João Paulo Machado — empresário na área de cybersegurança</p>
           </div>
         </div>
-        <div class="slot">
+        <div class="slot slot-open">
           <div class="slot-period">Tarde</div>
           <div class="slot-content">
-            <span class="badge badge-confirmed">Confirmado</span>
-            <h3>Palestra: Cybersegurança</h3>
-            <p class="slot-speaker">João Paulo Machado — empresário na área de cybersegurança</p>
+            <span class="badge badge-open">Vaga em aberto</span>
+            <h3>A definir</h3>
           </div>
         </div>
         <div class="slot">
-          <div class="slot-period">Noite</div>
+          <div class="slot-period">Noite<span>19h10</span></div>
           <div class="slot-content">
             <span class="badge badge-confirmed">Confirmado</span>
             <h3>Palestra: Cybersegurança</h3>
@@ -181,7 +197,44 @@
     </div>
   </section>
 
-  <section id="palestrantes" class="section">
+  <section id="minicursos" class="section">
+    <div class="container">
+      <h2 class="section-title">Mini-cursos</h2>
+      <p class="section-text">
+        Mini-cursos de até dois dias, dentro dos blocos de tarde (15h30 – 17h40) ou noite (19h10 – 22h30).
+        Os itens abaixo ainda estão em negociação — dia e horário exatos serão publicados assim que fechados.
+      </p>
+      <div class="minicourse-list">
+        <div class="minicourse-card">
+          <span class="badge badge-proposed">Em negociação</span>
+          <h3>Git e GitHub</h3>
+          <p class="minicourse-meta">Milan, Zenon e possivelmente Asafe · Período da noite</p>
+        </div>
+        <div class="minicourse-card">
+          <span class="badge badge-proposed">Em negociação</span>
+          <h3>Scorpion Bits</h3>
+          <p class="minicourse-meta">Possível pré-requisito de participação a definir · Manhã ou noite</p>
+        </div>
+        <div class="minicourse-card">
+          <span class="badge badge-proposed">Em negociação</span>
+          <h3>Música para jogos</h3>
+          <p class="minicourse-meta">Thales</p>
+        </div>
+        <div class="minicourse-card">
+          <span class="badge badge-proposed">Em negociação</span>
+          <h3>Ataques de phishing</h3>
+          <p class="minicourse-meta">Thales</p>
+        </div>
+        <div class="minicourse-card">
+          <span class="badge badge-proposed">Em negociação</span>
+          <h3>RAG e uso de LLMs (ex.: Llama)</h3>
+          <p class="minicourse-meta">Prof. Beluzo e Milan</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="palestrantes" class="section section-alt">
     <div class="container">
       <h2 class="section-title">Palestrantes confirmados</h2>
       <div class="speaker-grid">
@@ -195,7 +248,7 @@
           <div class="speaker-avatar" aria-hidden="true">JP</div>
           <h3>João Paulo Machado</h3>
           <p class="speaker-topic">Cybersegurança</p>
-          <p class="speaker-meta">27/10 · Manhã, tarde e noite</p>
+          <p class="speaker-meta">27/10 · Manhã e noite</p>
           <p class="speaker-bio">Empresário na área de cybersegurança.</p>
         </article>
         <article class="speaker-card speaker-card-placeholder">
@@ -204,6 +257,22 @@
           <p class="speaker-topic">Sua palestra ou mini-curso aqui</p>
           <a href="#parceiro" class="speaker-link">Quero participar</a>
         </article>
+      </div>
+    </div>
+  </section>
+
+  <section id="inscricoes" class="section">
+    <div class="container">
+      <h2 class="section-title">Inscrições</h2>
+      <div class="info-grid">
+        <div class="info-card">
+          <span class="info-card-label">Alunos do IFSP</span>
+          <span class="info-card-value">Inscrição pelo SUAP</span>
+        </div>
+        <div class="info-card">
+          <span class="info-card-label">Público externo</span>
+          <span class="info-card-value">Inscrição pelo Even3 (link em breve)</span>
+        </div>
       </div>
     </div>
   </section>

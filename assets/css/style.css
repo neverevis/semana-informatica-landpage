@@ -12,6 +12,8 @@
   --border: #e1e7e3;
   --amber-600: #b4740e;
   --amber-100: #fdf1dc;
+  --blue-600: #2b5faa;
+  --blue-100: #e5eefa;
   --radius: 14px;
   --shadow: 0 10px 30px -12px rgba(15, 61, 41, 0.18);
   --max-width: 1120px;
@@ -330,6 +332,42 @@ a {
   color: var(--amber-600);
 }
 
+.badge-proposed {
+  background: var(--blue-100);
+  color: var(--blue-600);
+}
+
+/* Schedule model */
+.schedule-model {
+  margin-top: 28px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.schedule-model-item {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 16px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.schedule-model-period {
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--green-700);
+}
+
+.schedule-model-time {
+  font-size: 14px;
+  color: var(--ink-700);
+}
+
 /* Tabs */
 .tabs {
   display: flex;
@@ -403,6 +441,43 @@ a {
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.slot-period span {
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: normal;
+  font-size: 13px;
+  color: var(--ink-500);
+}
+
+/* Mini-courses */
+.minicourse-list {
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 18px;
+}
+
+.minicourse-card {
+  background: var(--paper-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px;
+}
+
+.minicourse-card h3 {
+  margin: 0 0 6px;
+  font-size: 17px;
+}
+
+.minicourse-meta {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-700);
 }
 
 .slot-content h3 {
