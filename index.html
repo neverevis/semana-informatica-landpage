@@ -17,10 +17,25 @@
 
 <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
 
+<svg width="0" height="0" style="position: absolute" aria-hidden="true">
+  <symbol id="ifsp-mark" viewBox="0 0 102 138">
+    <circle cx="15" cy="15" r="15" fill="#C8202B"/>
+    <rect x="36" y="0" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="72" y="0" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="0" y="36" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="36" y="36" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="0" y="72" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="36" y="72" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="72" y="72" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="0" y="108" width="30" height="30" rx="5" fill="#3D9E44"/>
+    <rect x="36" y="108" width="30" height="30" rx="5" fill="#3D9E44"/>
+  </symbol>
+</svg>
+
 <header class="site-header" id="topo">
   <div class="container header-inner">
     <a href="#topo" class="brand">
-      <span class="brand-mark">SI</span>
+      <svg class="brand-mark" viewBox="0 0 102 138" role="img" aria-label="Instituto Federal de São Paulo"><use href="#ifsp-mark"></use></svg>
       <span class="brand-text">
         <strong>Semana da Informática</strong>
         <small>IFSP · Câmpus Araraquara</small>
@@ -122,11 +137,11 @@
 
       <div class="day-panel is-active" id="dia-26" role="tabpanel" aria-labelledby="tab-26">
         <div class="slot">
-          <div class="slot-period">Manhã<span>8h20 (proposto)</span></div>
+          <div class="slot-period">Manhã<span>8h20</span></div>
           <div class="slot-content">
-            <span class="badge badge-proposed">Em negociação</span>
+            <span class="badge badge-confirmed">Confirmado</span>
             <h3>Palestra: Game Design</h3>
-            <p class="slot-speaker">Jefferson Santana — aguardando confirmação</p>
+            <p class="slot-speaker">Jefferson Santana</p>
           </div>
         </div>
         <div class="slot slot-open">
@@ -245,6 +260,12 @@
       <h2 class="section-title">Palestrantes confirmados</h2>
       <div class="speaker-grid">
         <article class="speaker-card">
+          <div class="speaker-avatar" aria-hidden="true">JS</div>
+          <h3>Jefferson Santana</h3>
+          <p class="speaker-topic">Game Design</p>
+          <p class="speaker-meta">26/10 · Manhã (8h20)</p>
+        </article>
+        <article class="speaker-card">
           <div class="speaker-avatar" aria-hidden="true">SB</div>
           <h3>Scorpion Bits</h3>
           <p class="speaker-topic">Desenvolvimento de Jogos</p>
@@ -307,9 +328,14 @@
 
 <footer id="contato" class="site-footer">
   <div class="container footer-inner">
-    <div>
-      <strong>Semana da Informática 2026</strong>
-      <p>Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)<br>IFSP — Câmpus Araraquara</p>
+    <div class="footer-brand">
+      <span class="footer-logo-badge">
+        <svg class="footer-logo" viewBox="0 0 102 138" role="img" aria-label="Instituto Federal de São Paulo"><use href="#ifsp-mark"></use></svg>
+      </span>
+      <div>
+        <strong>Semana da Informática 2026</strong>
+        <p>Curso de Tecnologia em Análise e Desenvolvimento de Sistemas (ADS)<br>IFSP — Câmpus Araraquara</p>
+      </div>
     </div>
     <div>
       <span class="footer-label">Contato da organização</span>
