@@ -60,3 +60,7 @@ Principais decisões:
   confirmado como 27/10 (terça) com continuação em 28/10 (quarta).
 - Minicurso da Ana Laura Maekawa renomeado para "Arte Digital para Jogos", incluindo
   pixel art no conteúdo.
+- Corrigido texto do site que descrevia o evento como sendo do curso de ADS — a
+  Semana da Informática é um evento do IFSP Câmpus Araraquara, organizado por uma
+  comissão de alunos (não exclusiva do ADS) e aberto tanto a alunos do IFSP quanto
+  ao público externo (por isso as duas vias de inscrição, SUAP e Even3).
