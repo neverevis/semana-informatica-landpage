@@ -22,10 +22,15 @@ Atualizado em 03/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | Mini-curso | Responsável | Status |
 |---|---|---|
 | Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (dias 27 e 28) |
+| Arte digital | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
 | Git e GitHub | Zenon + colega da comissão | Em negociação |
 | Uso prático de IA com Ollama | Milan | Em negociação |
 | Minicurso com Vinícius (tema a definir) | Vinícius | Em negociação |
 | Música para jogos | Thales | Plano B |
+
+> Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 27/10) e **Scorpion Studios**
+> (grupo de estudos do próprio IFSP, minicurso de arte digital) são entidades diferentes apesar do
+> nome parecido.
 
 Detalhes completos, horários-padrão do dia e a lista de vagas em aberto estão na própria
 [página do evento](index.html) (seção Programação / Mini-cursos).

@@ -46,3 +46,10 @@ Principais decisões:
 - Pendência identificada: divergência de horário entre o material de divulgação da
   palestra de cibersegurança (19h–19h40) e o modelo de horários combinado na reunião
   (19h10–19h50) — a confirmar antes de fechar a divulgação.
+- Adicionada a logo oficial do IFSP (mosaico, sem nome de campus) ao cabeçalho e
+  rodapé do site.
+- Jefferson Santana confirmado (26/10, 8h20) — atualizado de "em negociação" para
+  "confirmado".
+- Adicionado o minicurso de arte digital com Ana Laura Maekawa, pela Scorpion Studios
+  (grupo de estudos do próprio IFSP — entidade diferente da Scorpion Bits, o estúdio
+  comercial que já tem palestra confirmada).
