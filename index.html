@@ -96,15 +96,15 @@
       <div class="schedule-model">
         <div class="schedule-model-item">
           <span class="schedule-model-period">Manhã</span>
-          <span class="schedule-model-time">8h30 – 9h10 e 9h10 – 9h50</span>
+          <span class="schedule-model-time">8h20 – 9h40 (palestras) · intervalo · 10h10 – 11h40 (mini-curso)</span>
         </div>
         <div class="schedule-model-item">
           <span class="schedule-model-period">Tarde</span>
-          <span class="schedule-model-time">14h – 15h30 (palestra) · 15h30 – 17h40 (mini-curso)</span>
+          <span class="schedule-model-time">14h – 15h30 (palestras) · intervalo · 16h – 17h40 (mini-curso)</span>
         </div>
         <div class="schedule-model-item">
           <span class="schedule-model-period">Noite</span>
-          <span class="schedule-model-time">19h – 19h40 · coffee break · 21h – 22h30</span>
+          <span class="schedule-model-time">19h10 – 20h30 (palestras) · coffee break · 21h – 22h30 (mini-curso)</span>
         </div>
       </div>
 
@@ -122,11 +122,11 @@
 
       <div class="day-panel is-active" id="dia-26" role="tabpanel" aria-labelledby="tab-26">
         <div class="slot">
-          <div class="slot-period">Manhã<span>8h20</span></div>
+          <div class="slot-period">Manhã<span>8h20 (proposto)</span></div>
           <div class="slot-content">
-            <span class="badge badge-confirmed">Confirmado</span>
+            <span class="badge badge-proposed">Em negociação</span>
             <h3>Palestra: Game Design</h3>
-            <p class="slot-speaker">Jefferson Santana</p>
+            <p class="slot-speaker">Jefferson Santana — aguardando confirmação</p>
           </div>
         </div>
         <div class="slot slot-open">
@@ -154,11 +154,12 @@
             <p class="slot-speaker">João Paulo Machado Vieira — Empresário e Especialista em TI e Cibersegurança</p>
           </div>
         </div>
-        <div class="slot slot-open">
+        <div class="slot">
           <div class="slot-period">Tarde</div>
           <div class="slot-content">
-            <span class="badge badge-open">Vaga em aberto</span>
-            <h3>A definir</h3>
+            <span class="badge badge-confirmed">Confirmado</span>
+            <h3>Palestra: Desenvolvimento de Jogos</h3>
+            <p class="slot-speaker">Scorpion Bits</p>
           </div>
         </div>
         <div class="slot">
@@ -202,36 +203,40 @@
     <div class="container">
       <h2 class="section-title">Mini-cursos</h2>
       <p class="section-text">
-        Mini-cursos de até dois dias, dentro dos blocos de tarde (15h30 – 17h40) ou noite (19h10 – 22h30).
-        Os itens abaixo ainda estão em negociação — dia e horário exatos serão publicados assim que fechados.
+        Mini-cursos de 2 dias (1h30 por dia), dentro dos blocos de manhã, tarde ou noite.
+        Dia e horário exatos de cada um serão publicados assim que fechados.
       </p>
       <div class="minicourse-list">
         <div class="minicourse-card">
+          <span class="badge badge-confirmed">Confirmado</span>
+          <h3>Desenvolvimento de jogos — Scorpion Bits</h3>
+          <p class="minicourse-meta">Godot / GDScript · 27 e 28/10 · Pré-requisito: lógica de programação básica</p>
+        </div>
+        <div class="minicourse-card">
           <span class="badge badge-proposed">Em negociação</span>
           <h3>Git e GitHub</h3>
-          <p class="minicourse-meta">Milan, Zenon e possivelmente Asafe · Período da noite</p>
+          <p class="minicourse-meta">Zenon e outro colega da comissão (equipe a confirmar)</p>
         </div>
         <div class="minicourse-card">
           <span class="badge badge-proposed">Em negociação</span>
-          <h3>Scorpion Bits</h3>
-          <p class="minicourse-meta">Possível pré-requisito de participação a definir · Manhã ou noite</p>
+          <h3>Uso prático de IA com Ollama</h3>
+          <p class="minicourse-meta">Milan</p>
         </div>
         <div class="minicourse-card">
           <span class="badge badge-proposed">Em negociação</span>
+          <h3>Minicurso com Vinícius</h3>
+          <p class="minicourse-meta">Tema a definir · Período da noite</p>
+        </div>
+        <div class="minicourse-card">
+          <span class="badge badge-proposed">Plano B</span>
           <h3>Música para jogos</h3>
           <p class="minicourse-meta">Thales</p>
         </div>
-        <div class="minicourse-card">
-          <span class="badge badge-proposed">Em negociação</span>
-          <h3>Ataques de phishing</h3>
-          <p class="minicourse-meta">Thales</p>
-        </div>
-        <div class="minicourse-card">
-          <span class="badge badge-proposed">Em negociação</span>
-          <h3>RAG e uso de LLMs (ex.: Llama)</h3>
-          <p class="minicourse-meta">Prof. Beluzo e Milan</p>
-        </div>
       </div>
+      <p class="section-text" style="margin-top: 18px; font-size: 13.5px;">
+        Reserva: se faltar palestrante em algum horário, o Thales também tem pronta uma palestra sobre
+        engenharia social e ataques de phishing.
+      </p>
     </div>
   </section>
 
@@ -240,10 +245,11 @@
       <h2 class="section-title">Palestrantes confirmados</h2>
       <div class="speaker-grid">
         <article class="speaker-card">
-          <div class="speaker-avatar" aria-hidden="true">JS</div>
-          <h3>Jefferson Santana</h3>
-          <p class="speaker-topic">Game Design</p>
-          <p class="speaker-meta">26/10 · Manhã</p>
+          <div class="speaker-avatar" aria-hidden="true">SB</div>
+          <h3>Scorpion Bits</h3>
+          <p class="speaker-topic">Desenvolvimento de Jogos</p>
+          <p class="speaker-meta">27/10 · Tarde</p>
+          <p class="speaker-bio">Estúdio de desenvolvimento de jogos formado por alunos do câmpus.</p>
         </article>
         <article class="speaker-card">
           <div class="speaker-avatar" aria-hidden="true">JP</div>
