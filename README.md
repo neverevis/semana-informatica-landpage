@@ -5,30 +5,32 @@ que acontece nos dias **26, 27 e 28 de outubro de 2026**, no IFSP Câmpus Araraq
 
 ## Status atual
 
-Atualizado em 03/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026.
+Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026.
 
-### Palestras
+### Palestras e mesas-redondas
 
-| Dia | Período | Palestra | Palestrante | Status |
+| Dia | Período | Atividade | Palestrante | Status |
 |---|---|---|---|---|
-| 26/10 (Seg) | Manhã (8h20) | Game Design | Jefferson Santana | Confirmado |
-| 26/10 (Seg) | Tarde | Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
+| 26/10 (Seg) | Manhã (8h20) | Palestra: Game Design | Jefferson Santana | Confirmado |
+| 26/10 (Seg) | Tarde | Palestra: Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
+| 26/10 (Seg) | Noite | Palestra: tema a definir | Bruno Silvestre | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
-| 28/10 (Qua) | Manhã / Tarde / Noite | — | — | Em aberto |
+| 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
+| 28/10 (Qua) | Tarde / Noite | — | — | Em aberto (2 palestras, sem mini-curso nesse dia) |
 
 ### Mini-cursos
 
 | Mini-curso | Responsável | Status |
 |---|---|---|
-| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (27/10 e continuação em 28/10) |
+| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e continuação em 27/10) |
 | Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
 | Git e GitHub | Zenon + colega da comissão | Em negociação |
 | Uso prático de IA com Ollama | Milan | Em negociação |
 | Minicurso com Vinícius (tema a definir) | Vinícius | Em negociação |
 | Música para jogos | Thales | Plano B |
 
-> Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 27/10) e **Scorpion Studios**
+> Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 26/10) e **Scorpion Studios**
 > (grupo de estudos do próprio IFSP, minicurso de arte digital) são entidades diferentes apesar do
 > nome parecido.
 

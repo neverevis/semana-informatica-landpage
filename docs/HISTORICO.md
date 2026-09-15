@@ -64,3 +64,20 @@ Principais decisões:
   Semana da Informática é um evento do IFSP Câmpus Araraquara, organizado por uma
   comissão de alunos (não exclusiva do ADS) e aberto tanto a alunos do IFSP quanto
   ao público externo (por isso as duas vias de inscrição, SUAP e Even3).
+- Adicionadas fotos reais nos cards de Jefferson Santana, Scorpion Bits e João
+  Paulo Machado Vieira (a da Scorpion Studios ainda não transferiu com sucesso —
+  pendente de reenvio em arquivo maior/PNG).
+- Reescrita a descrição "Sobre o evento" com base em como a Semana da Informática
+  é descrita em outros câmpus do IFSP (evento institucional recorrente), em vez de
+  focar na organização estudantil desta edição.
+- Confirmado que todas as palestras acontecem no Auditório — adicionado esse dado
+  a todos os slots e cards de palestrantes confirmados.
+
+## 15/09/2026
+- Bruno Silvestre confirmado: palestra em 26/10 à noite (tema ainda a definir) e
+  participação em mesa-redonda em 28/10 de manhã.
+- Adicionada a mesa-redonda "Mercado de Trabalho" de 28/10 de manhã, reunindo
+  ex-alunos do IFSP (incluindo Bruno Silvestre) — antes essa vaga estava em aberto.
+- Mini-curso da Scorpion Bits (Godot/GDScript) movido de 27/10+28/10 para
+  **26/10 + 27/10** (continuação). O dia 28/10 fica só com a mesa-redonda de manhã
+  e duas palestras (tarde/noite, ainda em aberto), sem nenhum mini-curso.
