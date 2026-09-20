@@ -81,3 +81,8 @@ Principais decisões:
 - Mini-curso da Scorpion Bits (Godot/GDScript) movido de 27/10+28/10 para
   **26/10 + 27/10** (continuação). O dia 28/10 fica só com a mesa-redonda de manhã
   e duas palestras (tarde/noite, ainda em aberto), sem nenhum mini-curso.
+
+## 20/09/2026
+- Isaias Silva confirmado como palestrante com o tema "Me formei, e agora? Entendendo o mercado tech e conquistando seu primeiro emprego como desenvolvedor", agendado para **27/10 (terça-feira) no período da tarde, no Auditório**.
+- Adicionadas as informações e foto do palestrante no site oficial, alinhado ao padrão visual da página.
+

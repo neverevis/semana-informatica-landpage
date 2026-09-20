@@ -15,6 +15,7 @@ Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 26/10 (Seg) | Tarde | Palestra: Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
 | 26/10 (Seg) | Noite | Palestra: tema a definir | Bruno Silvestre | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
+| 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
 | 28/10 (Qua) | Tarde / Noite | — | — | Em aberto (2 palestras, sem mini-curso nesse dia) |
