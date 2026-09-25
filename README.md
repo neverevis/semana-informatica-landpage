@@ -5,7 +5,7 @@ que acontece nos dias **26, 27 e 28 de outubro de 2026**, no IFSP Câmpus Araraq
 
 ## Status atual
 
-Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026.
+Atualizado em 25/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026 + revisão dos cards da landing page.
 
 ### Palestras e mesas-redondas
 
@@ -25,10 +25,9 @@ Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | Mini-curso | Responsável | Status |
 |---|---|---|
 | Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e continuação em 27/10) |
+| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10) |
 | Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
-| Git e GitHub | Zenon + colega da comissão | Em negociação |
-| Uso prático de IA com Ollama | Milan | Em negociação |
-| Minicurso com Vinícius (tema a definir) | Vinícius | Em negociação |
+| Git e GitHub | Zenon + colega da comissão | Confirmado |
 | Música para jogos | Thales | Plano B |
 
 > Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 26/10) e **Scorpion Studios**

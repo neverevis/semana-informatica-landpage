@@ -86,3 +86,11 @@ Principais decisões:
 - Isaias Silva confirmado como palestrante com o tema "Me formei, e agora? Entendendo o mercado tech e conquistando seu primeiro emprego como desenvolvedor", agendado para **27/10 (terça-feira) no período da tarde, no Auditório**.
 - Adicionadas as informações e foto do palestrante no site oficial, alinhado ao padrão visual da página.
 
+## 25/09/2026 — Atualização dos mini-cursos
+- Revisados os cards de mini-cursos da landing page para refletir o estado atual da organização.
+- **Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa** confirmado com Igor Sasaki para **28/10 (quarta)**.
+- **Git e GitHub** confirmado com Zenon e outro membro da comissão, mantendo o formato de mini-curso de 2 dias/1h30 por dia.
+- **Arte Digital para Jogos** mantido como proposta em negociação com Ana Laura Maekawa, com a marca Scorpion Studios e foco em pixel art.
+- **Música para jogos** mantido como **Plano B**, sem confirmação definitiva no cronograma oficial.
+- Ajustado o registro do Mini-curso da Scorpion Bits para **26/10 e continuação em 27/10**, alinhando a documentação ao estado do site e ao cronograma em uso.
+
