@@ -5,7 +5,7 @@ que acontece nos dias **26, 27 e 28 de outubro de 2026**, no IFSP Câmpus Araraq
 
 ## Status atual
 
-Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026.
+Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026 + revisão dos cards da landing page.
 
 ### Palestras e mesas-redondas
 
@@ -18,18 +18,22 @@ Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
-| 28/10 (Qua) | Tarde / Noite | — | — | Em aberto (2 palestras, sem mini-curso nesse dia) |
+| 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
+| 28/10 (Qua) | Noite | Encerramento da Semana da Informática | — | Confirmado |
+
+> **Aviso de vagas:** O quadro de palestras está totalmente preenchido (não há mais vagas para palestrantes).
+> Ainda há disponibilidade para interessados em ministrar **mini-cursos**.
 
 ### Mini-cursos
 
 | Mini-curso | Responsável | Status |
 |---|---|---|
 | Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e continuação em 27/10) |
+| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10) |
 | Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
-| Git e GitHub | Zenon + colega da comissão | Em negociação |
-| Uso prático de IA com Ollama | Milan | Em negociação |
-| Minicurso com Vinícius (tema a definir) | Vinícius | Em negociação |
+| Git e GitHub | Zenon + colega da comissão | Confirmado |
 | Música para jogos | Thales | Plano B |
+| Vaga em aberto | A definir | Disponível para interessados |
 
 > Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 26/10) e **Scorpion Studios**
 > (grupo de estudos do próprio IFSP, minicurso de arte digital) são entidades diferentes apesar do
