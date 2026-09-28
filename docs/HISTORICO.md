@@ -100,6 +100,13 @@ Principais decisões:
 - Encerramento das vagas para palestrantes: com a grade de palestras totalmente preenchida, o período da noite de 28/10 foi designado para o Encerramento da Semana da Informática.
 - Captação de parceiros direcionada exclusivamente para mini-cursos: mantida a disponibilidade para interessados em ministrar mini-cursos de até 2 dias.
 - Atualizados o site oficial (`index.html`), o botão do cabeçalho/hero, a grade de programação, o card de vagas em mini-cursos, a remoção do placeholder de vagas em palestrantes e a documentação no `README.md`.
+- Ajustada a duração de todas as palestras para **1 hora**.
+- Definido novo modelo de duração e divisão dos mini-cursos (total de 3 horas):
+  - Mini-cursos sem temática de IA alocados nos dois primeiros dias (26/10 e 27/10), com 1h30 por dia.
+  - Mini-cursos com temática de IA alocados no último dia (28/10), com duração de 3h e 30 minutos de intervalo entre os blocos.
+- Mini-curso confirmado com Gustavo Furquim (tema ainda a ser definido).
+- Ajustada a mesa-redonda de 28/10 manhã para ex-alunos do IFSP.
+
 
 
 
