@@ -17,21 +17,27 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
-| 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
+| 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP | Confirmado |
 | 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
 | 28/10 (Qua) | Noite | Encerramento da Semana da Informática | — | Confirmado |
 
+> **Duração das palestras:** Cada palestra tem duração de **1 hora**.
 > **Aviso de vagas:** O quadro de palestras está totalmente preenchido (não há mais vagas para palestrantes).
 > Ainda há disponibilidade para interessados em ministrar **mini-cursos**.
 
 ### Mini-cursos
 
+Todos os mini-cursos têm **duração total de 3 horas**:
+- **26/10 e 27/10**: Mini-cursos sem temática de IA, distribuídos em 2 dias (1h30 por dia).
+- **28/10**: Mini-cursos com temática de IA, concentrados no último dia com duração de 3h e 30 minutos de intervalo entre os blocos.
+
 | Mini-curso | Responsável | Status |
 |---|---|---|
-| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e continuação em 27/10) |
-| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10) |
-| Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
-| Git e GitHub | Zenon + colega da comissão | Confirmado |
+| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e 27/10, 1h30/dia) |
+| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10, 3h com intervalo) |
+| Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação (26/10 e 27/10) |
+| Git e GitHub | Zenon + colega da comissão | Confirmado (26/10 e 27/10, 1h30/dia) |
+| Mini-curso (tema a definir) | Gustavo Furquim | Confirmado (tema a definir) |
 | Música para jogos | Thales | Plano B |
 | Vaga em aberto | A definir | Disponível para interessados |
 
