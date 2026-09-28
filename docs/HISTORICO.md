@@ -94,3 +94,9 @@ Principais decisões:
 - **Música para jogos** mantido como **Plano B**, sem confirmação definitiva no cronograma oficial.
 - Ajustado o registro do Mini-curso da Scorpion Bits para **26/10 e continuação em 27/10**, alinhando a documentação ao estado do site e ao cronograma em uso.
 
+## 28/09/2026
+- Vitor confirmado como palestrante para **28/10 (quarta-feira) no período da tarde, no Auditório**, com tema ainda a ser definido.
+- Adicionadas as novas informações à grade de programação (dia 28/10) e à seção de palestrantes confirmados no site oficial, seguindo o padrão visual e de estrutura da página.
+- Atualizado o status no `README.md` (restando apenas o período da noite de 28/10 com palestra em aberto).
+
+

@@ -5,7 +5,7 @@ que acontece nos dias **26, 27 e 28 de outubro de 2026**, no IFSP Câmpus Araraq
 
 ## Status atual
 
-Atualizado em 25/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026 + revisão dos cards da landing page.
+Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026 + revisão dos cards da landing page.
 
 ### Palestras e mesas-redondas
 
@@ -18,7 +18,8 @@ Atualizado em 25/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
-| 28/10 (Qua) | Tarde / Noite | — | — | Em aberto (2 palestras, sem mini-curso nesse dia) |
+| 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
+| 28/10 (Qua) | Noite | — | — | Em aberto (1 palestra, sem mini-curso nesse dia) |
 
 ### Mini-cursos
 
