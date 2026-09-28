@@ -106,6 +106,8 @@ Principais decisões:
   - Mini-cursos com temática de IA alocados no último dia (28/10), com duração de 3h e 30 minutos de intervalo entre os blocos.
 - Mini-curso confirmado com Gustavo Furquim (tema ainda a ser definido).
 - Ajustada a mesa-redonda de 28/10 manhã para ex-alunos do IFSP.
+- Daniel confirmado como palestrante para **27/10 (terça-feira) no período da noite (19h10 – 20h10), no Auditório**, com tema ainda a ser definido.
+
 
 
 

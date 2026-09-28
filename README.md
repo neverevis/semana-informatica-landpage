@@ -16,7 +16,7 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 26/10 (Seg) | Noite | Palestra: tema a definir | Bruno Silvestre | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
-| 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
+| 27/10 (Ter) | Noite (19h10) | Palestra: tema a definir | Daniel | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP | Confirmado |
 | 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
 | 28/10 (Qua) | Noite | Encerramento da Semana da Informática | — | Confirmado |
