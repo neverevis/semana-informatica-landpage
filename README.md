@@ -19,7 +19,10 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
 | 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
-| 28/10 (Qua) | Noite | — | — | Em aberto (1 palestra, sem mini-curso nesse dia) |
+| 28/10 (Qua) | Noite | Encerramento da Semana da Informática | — | Confirmado |
+
+> **Aviso de vagas:** O quadro de palestras está totalmente preenchido (não há mais vagas para palestrantes).
+> Ainda há disponibilidade para interessados em ministrar **mini-cursos**.
 
 ### Mini-cursos
 
@@ -30,6 +33,7 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
 | Git e GitHub | Zenon + colega da comissão | Confirmado |
 | Música para jogos | Thales | Plano B |
+| Vaga em aberto | A definir | Disponível para interessados |
 
 > Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 26/10) e **Scorpion Studios**
 > (grupo de estudos do próprio IFSP, minicurso de arte digital) são entidades diferentes apesar do
