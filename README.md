@@ -19,7 +19,7 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 27/10 (Ter) | Noite (19h10) | Palestra: tema a definir | Daniel | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP | Confirmado |
 | 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
-| 28/10 (Qua) | Noite | Encerramento da Semana da Informática | — | Confirmado |
+| 28/10 (Qua) | Noite (19h10) | Do Currículo ao Portfólio de Impacto: Aplicando UX... | Ivo C. Neto | Confirmado |
 
 > **Duração das palestras:** Cada palestra tem duração de **1 hora**.
 > **Aviso de vagas:** O quadro de palestras está totalmente preenchido (não há mais vagas para palestrantes).
