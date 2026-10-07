@@ -5,7 +5,7 @@ que acontece nos dias **26, 27 e 28 de outubro de 2026**, no IFSP Câmpus Araraq
 
 ## Status atual
 
-Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026.
+Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organização de 01/09/2026 + revisão dos cards da landing page.
 
 ### Palestras e mesas-redondas
 
@@ -16,20 +16,30 @@ Atualizado em 15/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 | 26/10 (Seg) | Noite | Palestra: tema a definir | Bruno Silvestre | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
-| 27/10 (Ter) | Noite | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
-| 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP, incl. Bruno Silvestre | Confirmado |
-| 28/10 (Qua) | Tarde / Noite | — | — | Em aberto (2 palestras, sem mini-curso nesse dia) |
+| 27/10 (Ter) | Noite (19h10) | Palestra: tema a definir | Daniel | Confirmado |
+| 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP | Confirmado |
+| 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
+| 28/10 (Qua) | Noite (19h10) | Do Currículo ao Portfólio de Impacto: Aplicando UX... | Ivo C. Neto | Confirmado |
+
+> **Duração das palestras:** Cada palestra tem duração de **1 hora**.
+> **Aviso de vagas:** O quadro de palestras está totalmente preenchido (não há mais vagas para palestrantes).
+> Ainda há disponibilidade para interessados em ministrar **mini-cursos**.
 
 ### Mini-cursos
 
+Todos os mini-cursos têm **duração total de 3 horas**:
+- **26/10 e 27/10**: Mini-cursos sem temática de IA, distribuídos em 2 dias (1h30 por dia).
+- **28/10**: Mini-cursos com temática de IA, concentrados no último dia com duração de 3h e 30 minutos de intervalo entre os blocos.
+
 | Mini-curso | Responsável | Status |
 |---|---|---|
-| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e continuação em 27/10) |
-| Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação |
-| Git e GitHub | Zenon + colega da comissão | Em negociação |
-| Uso prático de IA com Ollama | Milan | Em negociação |
-| Minicurso com Vinícius (tema a definir) | Vinícius | Em negociação |
+| Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e 27/10, 1h30/dia) |
+| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10, 3h com intervalo) |
+| Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação (26/10 e 27/10) |
+| Git e GitHub | Zenon + colega da comissão | Confirmado (26/10 e 27/10, 1h30/dia) |
+| Mini-curso (tema a definir) | Gustavo Furquim | Confirmado (tema a definir) |
 | Música para jogos | Thales | Plano B |
+| Vaga em aberto | A definir | Disponível para interessados |
 
 > Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 26/10) e **Scorpion Studios**
 > (grupo de estudos do próprio IFSP, minicurso de arte digital) são entidades diferentes apesar do

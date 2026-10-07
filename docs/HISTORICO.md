@@ -86,3 +86,30 @@ Principais decisões:
 - Isaias Silva confirmado como palestrante com o tema "Me formei, e agora? Entendendo o mercado tech e conquistando seu primeiro emprego como desenvolvedor", agendado para **27/10 (terça-feira) no período da tarde, no Auditório**.
 - Adicionadas as informações e foto do palestrante no site oficial, alinhado ao padrão visual da página.
 
+## 25/09/2026 — Atualização dos mini-cursos
+- Revisados os cards de mini-cursos da landing page para refletir o estado atual da organização.
+- **Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa** confirmado com Igor Sasaki para **28/10 (quarta)**.
+- **Git e GitHub** confirmado com Zenon e outro membro da comissão, mantendo o formato de mini-curso de 2 dias/1h30 por dia.
+- **Arte Digital para Jogos** mantido como proposta em negociação com Ana Laura Maekawa, com a marca Scorpion Studios e foco em pixel art.
+- **Música para jogos** mantido como **Plano B**, sem confirmação definitiva no cronograma oficial.
+- Ajustado o registro do Mini-curso da Scorpion Bits para **26/10 e continuação em 27/10**, alinhando a documentação ao estado do site e ao cronograma em uso.
+
+## 28/09/2026
+- Vitor confirmado como palestrante para **28/10 (quarta-feira) no período da tarde, no Auditório**, com tema ainda a ser definido.
+- Adicionadas as novas informações à grade de programação (dia 28/10) e à seção de palestrantes confirmados no site oficial, seguindo o padrão visual e de estrutura da página.
+- Encerramento das vagas para palestrantes: com a grade de palestras totalmente preenchida, o período da noite de 28/10 foi designado para o Encerramento da Semana da Informática.
+- Captação de parceiros direcionada exclusivamente para mini-cursos: mantida a disponibilidade para interessados em ministrar mini-cursos de até 2 dias.
+- Atualizados o site oficial (`index.html`), o botão do cabeçalho/hero, a grade de programação, o card de vagas em mini-cursos, a remoção do placeholder de vagas em palestrantes e a documentação no `README.md`.
+- Ajustada a duração de todas as palestras para **1 hora**.
+- Definido novo modelo de duração e divisão dos mini-cursos (total de 3 horas):
+  - Mini-cursos sem temática de IA alocados nos dois primeiros dias (26/10 e 27/10), com 1h30 por dia.
+  - Mini-cursos com temática de IA alocados no último dia (28/10), com duração de 3h e 30 minutos de intervalo entre os blocos.
+- Mini-curso confirmado com Gustavo Furquim (tema ainda a ser definido).
+- Ajustada a mesa-redonda de 28/10 manhã para ex-alunos do IFSP.
+- Daniel confirmado como palestrante para **27/10 (terça-feira) no período da noite (19h10 – 20h10), no Auditório**, com tema ainda a ser definido.
+- Ivo C. Neto confirmado como palestrante para **28/10 (quarta-feira) no período da noite (19h10 – 20h10), no Auditório**, com a palestra "Do Currículo ao Portfólio de Impacto: Aplicando UX, Engenharia e Tomada de Decisão em Projetos Reais". Foto adicionada ao site.
+
+
+
+
+
