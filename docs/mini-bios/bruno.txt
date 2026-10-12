@@ -1,0 +1,15 @@
+## Título
+
+*Do backlog ao Pull Request: agentes de IA no ciclo real de desenvolvimento de software*
+
+## Descrição
+
+A IA no desenvolvimento de software já foi além de completar linhas de código. Hoje, agentes conseguem entender um problema, planejar uma solução, escrever o código, rodar os testes e abrir um Pull Request, quase sem ajuda.
+
+Nesta palestra, vamos entender o que são agentes de IA, como eles agem com autonomia ao longo do ciclo de desenvolvimento e, principalmente, onde o ser humano continua indispensável: nas decisões, nas aprovações e na validação do que foi entregue.
+
+Para sair da teoria, vamos mostrar o fluxo que um time de engenharia usa no dia a dia: desde transformar uma ideia em itens de backlog (PBIs) até implementar, revisar e validar cada tarefa com agentes especializados, usando TDD, revisão adversarial e checkpoints humanos.
+
+### Minibio
+
+Bruno Silvestre é Engenheiro de Software Fullstack na DIO, com mais de 4 anos de experiência, e responde por decisões de arquitetura de diversos projetos da plataforma, do produto à infraestrutura em nuvem. Formado em ADS pelo IFSP Araraquara, onde programou competitivamente e iniciou pesquisa científica, é também Mestre em Ciências de Computação pelo ICMC-USP, com pesquisa em IA aplicada à educação. Hoje constrói soluções de IA generativa em produção e trabalha com agentes de IA no dia a dia de desenvolvimento do time.

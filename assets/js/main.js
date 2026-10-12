@@ -1,4 +1,5 @@
 (function () {
+  /* ── Nav toggle ── */
   const navToggle = document.getElementById("navToggle");
   const navMenu = document.getElementById("navMenu");
 
@@ -14,6 +15,7 @@
     });
   });
 
+  /* ── Programação: tabs ── */
   const tabs = document.querySelectorAll(".tab");
   const panels = document.querySelectorAll(".day-panel");
 
@@ -35,5 +37,31 @@
       panel.classList.add("is-active");
       panel.hidden = false;
     });
+  });
+
+  /* ── Speaker cards: overlay por tap (mobile) ── */
+  const speakerCards = document.querySelectorAll(".speaker-card");
+
+  function closeAllOverlays(except) {
+    speakerCards.forEach(function (card) {
+      if (card !== except) card.classList.remove("overlay-open");
+    });
+  }
+
+  speakerCards.forEach(function (card) {
+    card.addEventListener("click", function (e) {
+      // Se o clique for em um link dentro do card, não interfere
+      if (e.target.closest("a")) return;
+
+      const isOpen = card.classList.toggle("overlay-open");
+      if (isOpen) closeAllOverlays(card);
+    });
+  });
+
+  // Fecha overlay ao clicar fora de qualquer card
+  document.addEventListener("click", function (e) {
+    if (!e.target.closest(".speaker-card")) {
+      closeAllOverlays(null);
+    }
   });
 })();

@@ -704,3 +704,225 @@ a {
     gap: 8px;
   }
 }
+
+/* ===================================================
+   Feature 1: Slots — melhorias visuais
+   =================================================== */
+
+.slot {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  border-left: 3px solid var(--green-500);
+}
+
+.slot:hover {
+  box-shadow: 0 18px 48px -12px rgba(15, 61, 41, 0.28);
+  transform: translateY(-2px);
+}
+
+.slot-speaker {
+  font-weight: 600;
+  color: var(--ink-900);
+}
+
+.slot-speaker-location {
+  margin: 2px 0 0;
+  color: var(--ink-500);
+  font-size: 13px;
+  font-weight: 400;
+}
+
+/* ===================================================
+   Feature 2: Speaker card — overlay de mini-bio (hover/tap)
+   =================================================== */
+
+.speaker-card {
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+}
+
+.speaker-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(15, 61, 41, 0.94);
+  color: #fff;
+  padding: 22px 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 10px;
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.28s ease, transform 0.28s ease;
+  pointer-events: none;
+  border-radius: var(--radius);
+}
+
+.speaker-card:hover .speaker-overlay,
+.speaker-card.overlay-open .speaker-overlay {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.speaker-overlay-topic {
+  margin: 0;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.9px;
+  color: var(--green-100);
+}
+
+.speaker-overlay-bio {
+  margin: 0;
+  font-size: 13.5px;
+  line-height: 1.65;
+}
+
+/* ===================================================
+   Feature 3: Seção de inscrições aprimorada
+   =================================================== */
+
+.registration-panel {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  margin-top: 32px;
+  align-items: start;
+}
+
+.registration-info > h3 {
+  margin: 0 0 6px;
+  font-size: 18px;
+}
+
+.registration-info > p {
+  margin: 0 0 20px;
+  font-size: 14px;
+  color: var(--ink-700);
+}
+
+.registration-audience-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.registration-audience-card {
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--green-500);
+  border-radius: var(--radius);
+  padding: 20px 22px;
+  background: var(--paper);
+  box-shadow: 0 2px 12px -4px rgba(15, 61, 41, 0.08);
+}
+
+.registration-audience-card.audience-external {
+  border-left-color: var(--blue-600);
+}
+
+.registration-audience-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--green-700);
+  margin-bottom: 4px;
+}
+
+.registration-audience-card.audience-external .registration-audience-label {
+  color: var(--blue-600);
+}
+
+.registration-audience-card h4 {
+  margin: 0 0 6px;
+  font-size: 16px;
+  color: var(--ink-900);
+}
+
+.registration-audience-card p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-700);
+  line-height: 1.55;
+}
+
+.registration-audience-card .btn {
+  margin-top: 14px;
+}
+
+.btn-soft {
+  background: var(--paper-alt);
+  border-color: var(--border);
+  color: var(--ink-700);
+}
+
+.btn-soft:hover {
+  background: var(--border);
+  transform: translateY(-1px);
+}
+
+.registration-embed {
+  background: var(--paper-alt);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: 0 2px 12px -4px rgba(15, 61, 41, 0.08);
+}
+
+.registration-embed-header {
+  padding: 18px 22px;
+  border-bottom: 1px solid var(--border);
+  background: var(--paper);
+}
+
+.registration-embed-header h3 {
+  margin: 0 0 2px;
+  font-size: 16px;
+}
+
+.registration-embed-header p {
+  margin: 0;
+  font-size: 13px;
+  color: var(--ink-500);
+}
+
+.registration-placeholder {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  padding: 52px 28px;
+  text-align: center;
+  min-height: 260px;
+}
+
+.registration-placeholder-icon {
+  width: 44px;
+  height: 44px;
+  color: var(--ink-500);
+  opacity: 0.4;
+}
+
+.registration-placeholder p {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-500);
+  line-height: 1.6;
+}
+
+.registration-placeholder strong {
+  display: block;
+  font-size: 15px;
+  color: var(--ink-700);
+  margin-bottom: 4px;
+}
+
+@media (max-width: 780px) {
+  .registration-panel {
+    grid-template-columns: 1fr;
+  }
+}

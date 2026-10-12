@@ -1,0 +1,4 @@
+Palestra: Do Currículo ao Portfólio de Impacto: Aplicando UX, Engenharia e Tomada de Decisão em Projetos Reais
+Ivo C. Neto: Docente SENAI Especialista em Desenvolvimento Front-end
+Minibio do Palestrante 
+Ivo C. Neto é Especialista em Desenvolvimento Front-end, Pedagogo e Especialista em Tecnologias Aplicadas à Educação. Atua como Professor no SENAI no Curso Técnico em Desenvolvimento de Sistemas, onde conecta a prática do mercado de software com metodologias de ensino. Com forte foco em UI/UX, arquitetura de interfaces e preparação de novos talentos, dedica-se a capacitar desenvolvedores para que comuniquem com clareza suas decisões técnicas e se destaquem no mercado de tecnologia.
