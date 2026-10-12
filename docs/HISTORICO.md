@@ -111,6 +111,16 @@ Principais decisões:
 
 ## 12/10/2026
 - Atualizadas informações do palestrante Daniel Mendes no site: inclusão da foto oficial (`assets/img/palestrantes/daniel.jpeg`), nome completo, mini-bio e título da palestra: "Mudar de rota, transformar o jogo — carreira, tecnologia e transformação digital no campo" (26/10 noite).
+- Implementadas melhorias visuais nos cards de períodos (slots da programação), badges e efeitos hover.
+- Adicionadas mini-bios resumidas com efeito overlay hover e suporte a mobile nos cards de todos os 7 palestrantes confirmados.
+- Reformulada a seção de Inscrições com layout em duas colunas (cards de SUAP para alunos e Even3 para público externo, além de painel de formulário integrado).
+- **Sincronização geral de horários** conforme a planilha oficial `Horário - Semana da Informática.xlsx`:
+  - Correção dos horários das palestras vespertinas para **13h – 14h** (anteriormente marcado como 14h – 15h).
+  - Preenchimento de horários em todos os slots de períodos na Programação: Manhã (8h20 – 9h20), Tarde (13h – 14h) e Noite (19h10 – 20h10).
+  - Inclusão dos intervalos e blocos de mini-cursos/atividades: Manhã (10h10 – 11h40), Tarde (15h – 17h30) e Noite (21h – 22h30).
+  - Atualização dos metadados de horários em todos os cards individuais de palestrantes.
+  - Alocação do mini-curso de Node.js e IA Generativa (Igor Sasaki) na tarde de 28/10 (15h – 17h30) e encerramento oficial na noite de 28/10 (21h – 22h30).
+  - Atualização correspondente no `README.md`.
 
 
 

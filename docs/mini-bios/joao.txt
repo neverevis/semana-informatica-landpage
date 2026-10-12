@@ -1,0 +1,31 @@
+Sobre
+Executivo Sênior de Tecnologia da Informação com mais de 20 anos de experiência em posições de liderança, reportando diretamente para C-Level em grandes empresas de diversos setores, incluindo Energia, Indústria Automobilística, Petróleo e Gás, Commodities, Educação e Financeiro (Bancos e Cooperativas de Crédito).
+
+Possuo visão estratégica e conhecimento aprofundado em todos os processos de gestão da área de tecnologia, com sólida experiência em operações de TI, infraestrutura, datacenter, sistemas, governança de TI, cibersegurança e LGPD. 
+
+Na governança de TI, tenho expertise na alocação estratégica de times, definição de indicadores de desempenho, métricas de qualidade de software e gestão de configuração. Atuei na gestão de Service Desk e Field Service, contratos de outsourcing, processos de serviços de TI e gestão de pessoas.
+
+Com mais de 10 anos de experiência em gestão orçamentária (OPEX e CAPEX) acima de R$ 10MM, tenho forte atuação na redução de custos operacionais (OPEX), otimizando fornecedores de TI, revisando contratos e melhorando níveis de serviço.
+
+Minha trajetória é marcada por projetos de grande impacto na modernização e transformação digital, promovendo a integração eficiente entre processos, otimização de custos, aumento de performance, proatividade, segurança e inovação. Como resultado, a TI se torna um setor cada vez mais estratégico e essencial para o sucesso do negócio.
+
+Principais Projetos e Especializações:
+🔹 Rollouts de ERP TOTVS, Datasul e SAP R/3 ECC / S4HANA
+🔹 CRM Salesforce e RD Station
+🔹 Estruturação de times de TI
+🔹 Transformação digital e cultural para Cloud (Azure, AWS e Google)
+🔹 Sustentação de Operações de TI, Suporte e Cibersegurança
+🔹 M&As e integração de sistemas, banco de dados e APIs
+🔹 Modernização de data centers e infraestruturas
+🔹 Construção da área de segurança cibernética (SOC, SIEM, Blue Team e Red Team)
+🔹 Implementação de Segurança Citrix Netscaler com multifatorial RSA (2FA)
+🔹 Implementação de monitoração e indicadores KPIs com Dynatrace e New Relic
+
+Formação Acadêmica e Treinamentos Executivos.
+🎓 Graduação em Sistemas de Informação - FESL (Faculdade São Luís)
+🎓 Especialização em Redes de Computadores - UFSCar
+🎓 MBA em Gestão de Projetos - USP
+🎓 Mestrado em Negócios - UFG
+🎓 Especialização em Governança de TI e Cibersegurança - UNICAMP
+🎓 MBA Executiva em Liderança e Gestão - USP
+📈 Treinamentos para C-Level em TI no IBGC, Deloitte, Fundação Dom Cabral, FGV, StartSe, MIT (Massachusetts Institute of Technology) e Universidade do Porto (Porto Business School)

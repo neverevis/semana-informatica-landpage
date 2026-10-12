@@ -11,15 +11,16 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 
 | Dia | Período | Atividade | Palestrante | Status |
 |---|---|---|---|---|
-| 26/10 (Seg) | Manhã (8h20) | Palestra: Game Design | Jefferson Santana | Confirmado |
-| 26/10 (Seg) | Tarde | Palestra: Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
-| 26/10 (Seg) | Noite (19h10) | Mudar de rota, transformar o jogo — carreira, tecnologia e transformação digital no campo | Daniel Mendes | Confirmado |
-| 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
-| 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
-| 27/10 (Ter) | Noite (19h10) | Do backlog ao Pull Request: agentes de IA no ciclo real de desenvolvimento de software | Bruno Silvestre | Confirmado |
-| 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP | Confirmado |
-| 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
-| 28/10 (Qua) | Noite (19h10) | Do Currículo ao Portfólio de Impacto: Aplicando UX... | Ivo C. Neto | Confirmado |
+| 26/10 (Seg) | Manhã (8h20 – 9h20) | Palestra: Game Design | Jefferson Santana | Confirmado |
+| 26/10 (Seg) | Tarde (13h – 14h) | Palestra: Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
+| 26/10 (Seg) | Noite (19h10 – 20h10) | Mudar de rota, transformar o jogo — carreira, tecnologia e transformação digital no campo | Daniel Mendes | Confirmado |
+| 27/10 (Ter) | Manhã (8h20 – 9h20) | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
+| 27/10 (Ter) | Tarde (13h – 14h) | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
+| 27/10 (Ter) | Noite (19h10 – 20h10) | Do backlog ao Pull Request: agentes de IA no ciclo real de desenvolvimento de software | Bruno Silvestre | Confirmado |
+| 28/10 (Qua) | Manhã (8h20 – 9h20) | Mesa-redonda: Mercado de Trabalho (ADS) | Ex-alunos do IFSP | Confirmado |
+| 28/10 (Qua) | Tarde (15h – 17h30) | Mini-curso: Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado |
+| 28/10 (Qua) | Noite (19h10 – 20h10) | Do Currículo ao Portfólio de Impacto: Aplicando UX... | Ivo C. Neto | Confirmado |
+| 28/10 (Qua) | Noite (21h – 22h30) | Mesa-redonda (TSI) & Encerramento Oficial | Comissão Organizadora e convidados | Confirmado |
 
 > **Duração das palestras:** Cada palestra tem duração de **1 hora**.
 > **Aviso de vagas:** O quadro de palestras está totalmente preenchido (não há mais vagas para palestrantes).
@@ -27,18 +28,17 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 
 ### Mini-cursos
 
-Todos os mini-cursos têm **duração total de 3 horas**:
-- **26/10 e 27/10**: Mini-cursos sem temática de IA, distribuídos em 2 dias (1h30 por dia).
-- **28/10**: Mini-cursos com temática de IA, concentrados no último dia com duração de 3h e 30 minutos de intervalo entre os blocos.
+- **26/10 e 27/10**: Mini-cursos sem temática de IA, distribuídos em 2 dias (1h30 por dia: Manhã 10h10 – 11h40 e Noite 21h – 22h30).
+- **28/10**: Mini-cursos com temática de IA, concentrados na quarta-feira à tarde (15h – 17h30).
 
 | Mini-curso | Responsável | Status |
 |---|---|---|
 | Desenvolvimento de jogos (Godot/GDScript) | Scorpion Bits | Confirmado (26/10 e 27/10, 1h30/dia) |
-| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10, 3h com intervalo) |
+| Desenvolvimento de Aplicações Inteligentes com Node.js e IA Generativa | Igor Sasaki | Confirmado (28/10, Tarde 15h – 17h30) |
 | Arte Digital para Jogos (inclui pixel art) | Ana Laura Maekawa (Scorpion Studios) | Em negociação (26/10 e 27/10) |
-| Git e GitHub | Zenon + colega da comissão | Confirmado (26/10 e 27/10, 1h30/dia) |
+| Git e GitHub | Marcelo, Zenon, Antônio e Asafe | Confirmado (26/10 e 27/10, 1h30/dia) |
 | Mini-curso (tema a definir) | Gustavo Furquim | Confirmado (tema a definir) |
-| Música para jogos | Thales | Plano B |
+| Música para jogos | Thales (Reserva) | Plano B (26/10 e 27/10, 1h30/dia) |
 | Vaga em aberto | A definir | Disponível para interessados |
 
 > Atenção: **Scorpion Bits** (estúdio comercial, palestra confirmada de 26/10) e **Scorpion Studios**
