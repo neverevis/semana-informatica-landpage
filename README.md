@@ -13,10 +13,10 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 |---|---|---|---|---|
 | 26/10 (Seg) | Manhã (8h20) | Palestra: Game Design | Jefferson Santana | Confirmado |
 | 26/10 (Seg) | Tarde | Palestra: Mercado de Trabalho em Jogos | Scorpion Bits | Confirmado |
-| 26/10 (Seg) | Noite | Palestra: tema a definir | Bruno Silvestre | Confirmado |
+| 26/10 (Seg) | Noite (19h10) | Mudar de rota, transformar o jogo — carreira, tecnologia e transformação digital no campo | Daniel Mendes | Confirmado |
 | 27/10 (Ter) | Manhã | Desafios em Cibersegurança no Ambiente Digital | João Paulo Machado Vieira | Confirmado |
 | 27/10 (Ter) | Tarde | Me formei, e agora? Entendendo o mercado tech... | Isaias Silva | Confirmado |
-| 27/10 (Ter) | Noite (19h10) | Palestra: tema a definir | Daniel | Confirmado |
+| 27/10 (Ter) | Noite (19h10) | Do backlog ao Pull Request: agentes de IA no ciclo real de desenvolvimento de software | Bruno Silvestre | Confirmado |
 | 28/10 (Qua) | Manhã | Mesa-redonda: Mercado de Trabalho | Ex-alunos do IFSP | Confirmado |
 | 28/10 (Qua) | Tarde | Palestra: tema a definir | Vitor | Confirmado |
 | 28/10 (Qua) | Noite (19h10) | Do Currículo ao Portfólio de Impacto: Aplicando UX... | Ivo C. Neto | Confirmado |

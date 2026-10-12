@@ -109,6 +109,10 @@ Principais decisões:
 - Daniel confirmado como palestrante para **27/10 (terça-feira) no período da noite (19h10 – 20h10), no Auditório**, com tema ainda a ser definido.
 - Ivo C. Neto confirmado como palestrante para **28/10 (quarta-feira) no período da noite (19h10 – 20h10), no Auditório**, com a palestra "Do Currículo ao Portfólio de Impacto: Aplicando UX, Engenharia e Tomada de Decisão em Projetos Reais". Foto adicionada ao site.
 
+## 12/10/2026
+- Atualizadas informações do palestrante Daniel Mendes no site: inclusão da foto oficial (`assets/img/palestrantes/daniel.jpeg`), nome completo, mini-bio e título da palestra: "Mudar de rota, transformar o jogo — carreira, tecnologia e transformação digital no campo" (26/10 noite).
+
+
 
 
 
