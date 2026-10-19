@@ -122,6 +122,11 @@ Principais decisões:
   - Alocação do mini-curso de Node.js e IA Generativa (Igor Sasaki) na tarde de 28/10 (15h – 17h30) e encerramento oficial na noite de 28/10 (21h – 22h30).
   - Atualização correspondente no `README.md`.
 
+## 18/10/2026
+- Adicionados botões de inscrição em todos os cards de mini-cursos direcionando para o formulário de inscrição do evento no SUAP (`https://suap.ifsp.edu.br/eventos/inscricao_publica/18744/`).
+- Atualizado o layout dos cards de mini-cursos (`.minicourse-card`) com alinhamento flexbox, distribuição vertical para padronização da altura dos botões e efeitos sutis de hover.
+
+
 
 
 
