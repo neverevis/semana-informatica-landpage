@@ -28,8 +28,9 @@ Atualizado em 28/09/2026. Fonte: cronograma no Drive + ata da reunião de organi
 
 ### Mini-cursos
 
-- **26/10 e 27/10**: Mini-cursos sem temática de IA, distribuídos em 2 dias (1h30 por dia: Manhã 10h10 – 11h40 e Noite 21h – 22h30).
+- **26/10 e 27/10**: Mini-cursos sem temática de IA, distribuídos em 2 dias (1h30 por dia: Manhã 10h10 – 11h40).
 - **28/10**: Mini-cursos com temática de IA, concentrados na quarta-feira à tarde (15h – 17h30).
+> **Nota:** Não há mini-cursos no período da noite (acontecem exclusivamente nos turnos da manhã e da tarde).
 
 | Mini-curso | Responsável | Status |
 |---|---|---|
