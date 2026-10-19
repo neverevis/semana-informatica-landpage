@@ -122,9 +122,34 @@ Principais decisões:
   - Alocação do mini-curso de Node.js e IA Generativa (Igor Sasaki) na tarde de 28/10 (15h – 17h30) e encerramento oficial na noite de 28/10 (21h – 22h30).
   - Atualização correspondente no `README.md`.
 
-
-
-
-
-
-
+## 18/10/2026
+- Padronizada a organização interna dos cards de mini-cursos (`.minicourse-card`):
+  - Cabeçalho com badge de status e tag de temática (ex: `Temática de IA`).
+  - Título em destaque com alinhamento uniforme.
+  - Lista de informações estruturada com ícones dedicados para Ministrante(s), Data/Horário e Pré-requisitos.
+  - Pré-requisitos destacados em pílula visual ou sinalizados como "Nenhum" quando não houver exigência.
+- Reestruturação textual e narrativa das seções **"Sobre o evento"** e **"Mini-cursos"**:
+  - Parágrafos introdutórios coesos com destaque (`.section-lead`) explicando a proposta e o público da Semana da Informática.
+  - Criação de cards visuais de modalidades (`.minicourse-tracks`) para diferenciar com clareza a Trilha Geral (2 encontros) da Imersão em IA (encontro único).
+- Alinhamento simétrico e padronização vertical da seção de **Inscrições**:
+  - `align-items: stretch` no grid e flexbox com alturas iguais nos cards de Inscrição no SUAP e Certificado de Participação.
+  - Alinhamento do topo dos cards e fixação dos elementos de ação (`.btn` e `.certificate-requirement`) na base de cada card.
+- Reorganização e eliminação de redundâncias na seção de **Programação**:
+  - Cards de turno (`.schedule-model-item`):
+    - Cabeçalho estruturado com nome do turno e badge de duração total (`8h20 – 11h40`, `13h – 17h30`, `19h10 – 22h30`).
+    - Linha do tempo visual (`.schedule-model-timeline`) com marcos de horário inicial (`08h20`, `09h20`, `10h10`), eliminando repetições de horários e intervalos que duplicavam o início e o fim de cada bloco.
+    - Estilização diferenciada para o bloco de Intervalo (borda pontilhada e opacidade reduzida) e tags para especificidades de dias (`Dias 26 e 27`).
+    - Eliminação de marcadores padrão de lista (`•`) não formatados.
+  - Cards detalhados da grade diária (`.slot`):
+    - Remoção do prefixo redundante "Palestra: " nos títulos das atividades.
+    - Substituição do texto repetitivo de localização por ícone SVG dedicado e indicação concisa do local ("Auditório do Câmpus" e "Laboratório de Informática").
+- Definição dos turnos de mini-cursos:
+  - Os mini-cursos acontecem exclusivamente nos turnos da **manhã** (26/10 e 27/10, das 10h10 às 11h40) e da **tarde** (28/10, das 15h às 17h30).
+  - Removida qualquer menção a mini-cursos no período da **noite** nos cards de modelo de horário, na trilha de mini-cursos, nos cards informativos e no `README.md`.
+  - O card do período da noite na Programação agora destaca a Palestra (19h10) e a Mesa-redonda & Encerramento Oficial no dia 28 (21h00).
+- Organização natural dos metadados nos cards de palestrantes (`.speaker-card`):
+  - Separação clara de Data, Horário e Local através de quebras de linha naturais (`.speaker-meta span`), mantendo a uniformidade visual do fundo do card sem adição de caixas ou cores divergentes.
+- Redes sociais no card de palestrante:
+  - Links das redes sociais de João Paulo Machado Vieira movidos para o interior do painel overlay verde (`.speaker-overlay`), posicionados na base logo abaixo de sua mini-bio com contraste e espaçamento adequados.
+- Alinhamento de pré-requisitos nos mini-cursos:
+  - Formatação em linha contínua do texto de pré-requisito com o rótulo ("Pré-requisito:"), integrando o conteúdo de forma fluida e eliminando quebras desnecessárias em elementos atômicos ou caixas isoladas no card.
